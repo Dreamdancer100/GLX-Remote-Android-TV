@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Main window
+
+<p align="center"><img src="screenshots/01.png" alt="Main window" width="850"></p>
+
+### 2️⃣ View 2
+
+<p align="center"><img src="screenshots/02.png" alt="View 2" width="850"></p>
+
+### 3️⃣ View 3
+
+<p align="center"><img src="screenshots/03.png" alt="View 3" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Help on the TV from far away:** The helper sees the TV picture on the PC and fixes app problems, settings or channel lists without driving over.
