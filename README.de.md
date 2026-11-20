@@ -23,17 +23,17 @@
 
 ## 📸 Überblick & Screenshots
 
-### 1️⃣ Hauptfenster
+### 1️⃣ Startbildschirm mit GLX-ID und Passwort
 
-<p align="center"><img src="screenshots/01.png" alt="Hauptfenster" width="850"></p>
+<p align="center"><img src="screenshots/01.png" alt="Startbildschirm mit GLX-ID und Passwort" width="850"></p>
 
-### 2️⃣ Ansicht 2
+### 2️⃣ Sitzung mit Chat
 
-<p align="center"><img src="screenshots/02.png" alt="Ansicht 2" width="850"></p>
+<p align="center"><img src="screenshots/02.png" alt="Sitzung mit Chat" width="850"></p>
 
-### 3️⃣ Ansicht 3
+### 3️⃣ Verbindungsanfrage
 
-<p align="center"><img src="screenshots/03.png" alt="Ansicht 3" width="850"></p>
+<p align="center"><img src="screenshots/03.png" alt="Verbindungsanfrage" width="850"></p>
 
 ---
 

@@ -23,17 +23,17 @@
 
 ## 📸 Overview & Screenshots
 
-### 1️⃣ Main window
+### 1️⃣ Start screen with GLX ID and password
 
-<p align="center"><img src="screenshots/01.png" alt="Main window" width="850"></p>
+<p align="center"><img src="screenshots/01.png" alt="Start screen with GLX ID and password" width="850"></p>
 
-### 2️⃣ View 2
+### 2️⃣ Session with chat
 
-<p align="center"><img src="screenshots/02.png" alt="View 2" width="850"></p>
+<p align="center"><img src="screenshots/02.png" alt="Session with chat" width="850"></p>
 
-### 3️⃣ View 3
+### 3️⃣ Connection request
 
-<p align="center"><img src="screenshots/03.png" alt="View 3" width="850"></p>
+<p align="center"><img src="screenshots/03.png" alt="Connection request" width="850"></p>
 
 ---
 
