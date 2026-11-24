@@ -21,6 +21,42 @@
 
 ---
 
+## 📖 Über GLX Remote Android TV
+
+### Hilfe am Fernseher, ohne vorbeizufahren
+
+Netflix fragt nach einem Update, die Lieblings-App ist verschwunden oder ein Menü lässt sich nicht mehr schließen? Mit GLX Remote TV kann dir eine vertraute Person, die GLX Remote Server nutzt, direkt am Fernseher helfen. Du nennst ihr die GLX-ID und das Passwort, die auf dem Fernseher stehen, drückst auf Erlauben, und sie sieht dein Fernsehbild auf ihrem PC.
+
+### Eine Fernbedienung wie deine echte
+
+Im Sitzungsfenster beim Helfer steht rechts neben dem Fernsehbild eine Fernbedienung, die so aussieht wie die deines Geräts, zum Beispiel Homatics oder Philips Ambilight. Mit Steuerkreuz, OK, Zurück, Startseite, Lautstärke, Wiedergabe und Tasten für Netflix, YouTube, Prime Video und Disney+. Die Pfeiltasten und Enter der PC-Tastatur funktionieren genauso.
+
+### Auch mit der Maus
+
+Der Helfer kann auf Apps und Kacheln einfach klicken. Ein Rechtsklick öffnet das Kontextmenü, die Zurück-Taste der Maus geht zurück, und mit dem Mausrad blättert er durch Menüs und App-Reihen. Die Startseite öffnet deinen eigenen Launcher, zum Beispiel Projectivy.
+
+### Chat direkt auf dem Fernseher
+
+Schreibt dir der Helfer eine Nachricht, erscheint sie oben rechts auf dem Fernseher, ganz gleich, welche App gerade läuft.
+
+### Groß, klar und im GLX-Design
+
+Die App füllt den ganzen Fernseher und lässt sich bequem mit der Fernbedienung bedienen. GLX-ID und Passwort stehen groß nebeneinander. Die Farben übernimmt die App vom Design, das dein Helfer in GLX Remote Server eingestellt hat. Deutsch und Englisch.
+
+### Immer bereit
+
+GLX Remote TV startet auf Wunsch mit dem Gerät und bleibt im Hintergrund erreichbar. Über das Internet läuft die Verbindung verschlüsselt über den GLX-Server, im selben Netzwerk auch direkt.
+
+### Sicher
+
+Ohne GLX-ID und Passwort kommt niemand auf deinen Fernseher, und jede Verbindung musst du am Fernseher bestätigen. Mit Trennen beendest du die Hilfe jederzeit. Die Steuerung läuft über die Bedienungshilfe von Android, nur während einer Sitzung, die du selbst erlaubt hast. GLX Remote TV liest dabei keine Inhalte mit.
+
+### Einrichtung
+
+Einmal die App installieren, öffnen und unter Steuerung erlauben auf Einschalten drücken. In den Bedienungshilfen dann GLX Remote Steuerung einschalten. Danach reichen GLX-ID und Passwort.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Startbildschirm mit GLX-ID und Passwort

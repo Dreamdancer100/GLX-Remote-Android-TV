@@ -21,6 +21,42 @@
 
 ---
 
+## 📖 About GLX Remote Android TV
+
+### Help on the TV without driving over
+
+Netflix wants an update, the favourite app has disappeared or a menu will not close? With GLX Remote TV a person you trust who uses GLX Remote can help you right on the TV. You tell them the GLX ID and password shown on the TV, press Allow, and they see your TV picture on their PC.
+
+### A remote control like your real one
+
+In the helper's session window there is a remote control next to the TV picture that looks like the one of your device, for example Homatics or Philips Ambilight. With d-pad, OK, Back, Home, volume, playback and buttons for Netflix, YouTube, Prime Video and Disney+. The arrow keys and Enter of the PC keyboard work the same way.
+
+### With the mouse too
+
+The helper can simply click on apps and tiles. A right-click opens the context menu, the mouse's back button goes back, and the mouse wheel scrolls through menus and app rows. Home opens your own launcher, for example Projectivy.
+
+### Chat right on the TV
+
+When the helper writes you a message, it appears at the top right of the TV, no matter which app is running.
+
+### Large, clear and in GLX design
+
+The app fills the whole TV and is easy to use with the remote. GLX ID and password are shown large side by side. The app takes its colours from the design your helper chose in GLX Remote. German and English.
+
+### Always ready
+
+GLX Remote TV starts with the device if you like and stays reachable in the background. Over the internet the connection runs encrypted through the GLX server, in the same network also directly.
+
+### Secure
+
+Without GLX ID and password nobody gets onto your TV, and you confirm every connection on the TV. Disconnect ends the help at any time. Control runs through Android's accessibility service, only during a session you allowed yourself. GLX Remote TV does not read any content.
+
+### Setup
+
+Install the app once, open it and press Enable under Allow control. Then switch on GLX Remote Control in the accessibility settings. After that, GLX ID and password are all you need.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Start screen with GLX ID and password
